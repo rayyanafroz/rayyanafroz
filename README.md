@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0d0221,3b1d78,7c3aed&text=Rayyan%20Afroz&fontColor=e9d5ff&fontSize=60&fontAlignY=36&desc=Passionate%20about%20tech%20%E2%80%A2%20Building%20things%20that%20matter&descColor=c4b5fd&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="assets/header.svg" width="100%" alt="Rayyan Afroz"/>
 
-<a href="https://linkedin.com/in/rayyan-afroz-ahmed-15060b418"><img height="46" src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b3b" alt="LinkedIn"/></a>
+<br/>
+
+<a href="https://linkedin.com/in/rayyan-afroz-ahmed-15060b418"><img height="48" src="https://img.shields.io/badge/LINKEDIN-CONNECT-ff003c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:rayyanafroz.ahmed1233@gmail.com"><img height="46" src="https://img.shields.io/badge/Email-Say%20Hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b3b" alt="Email"/></a>
+<a href="mailto:rayyanafroz.ahmed1233@gmail.com"><img height="48" src="https://img.shields.io/badge/EMAIL-SAY_HELLO-05d9e8?style=for-the-badge&logo=gmail&logoColor=05d9e8&labelColor=0d0221" alt="Email"/></a>
 
 </div>
 
 <br/>
 
-## 💫 About Me
+<img src="assets/h-about.svg" width="100%" alt="ABOUT_ME"/>
 
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="50%" valign="middle">
 
 ```text
 $ whoami
@@ -25,88 +27,88 @@ $ cat passion.txt
 > Backend APIs, cloud, and clean UIs.
 
 $ status
-> building. learning. shipping. ▌
+> online. building. shipping. _
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
-<img src="assets/ascii-donut.gif" width="100%" alt="ASCII animation"/>
+<td width="50%" align="center" valign="middle">
+<img src="assets/headphones.gif" width="100%" alt="Headphones in the neon rain"/>
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+<img src="assets/h-tech.svg" width="100%" alt="TECH_STACK"/>
 
-<h3>Programming Languages</h3>
+<h4>&gt; Programming Languages</h4>
 <p>
-<img height="40" src="https://img.shields.io/badge/Python-1a0b3b?style=for-the-badge&logo=python&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Python"/>
-<img height="40" src="https://img.shields.io/badge/TypeScript-1a0b3b?style=for-the-badge&logo=typescript&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="TypeScript"/>
-<img height="40" src="https://img.shields.io/badge/C-1a0b3b?style=for-the-badge&logo=c&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="C"/>
-<img height="40" src="https://img.shields.io/badge/Bash-1a0b3b?style=for-the-badge&logo=gnubash&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Bash"/>
+<img height="40" src="https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Python"/>
+<img height="40" src="https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge&logo=typescript&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="TypeScript"/>
+<img height="40" src="https://img.shields.io/badge/C-0d0221?style=for-the-badge&logo=c&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="C"/>
+<img height="40" src="https://img.shields.io/badge/Bash-0d0221?style=for-the-badge&logo=gnubash&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Bash"/>
 </p>
 
-<h3>Frontend</h3>
+<h4>&gt; Frontend</h4>
 <p>
-<img height="40" src="https://img.shields.io/badge/React-1a0b3b?style=for-the-badge&logo=react&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="React"/>
-<img height="40" src="https://img.shields.io/badge/Next.js-1a0b3b?style=for-the-badge&logo=nextdotjs&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Next.js"/>
+<img height="40" src="https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="React"/>
+<img height="40" src="https://img.shields.io/badge/Next.js-0d0221?style=for-the-badge&logo=nextdotjs&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Next.js"/>
 </p>
 
-<h3>Backend & APIs</h3>
+<h4>&gt; Backend & APIs</h4>
 <p>
-<img height="40" src="https://img.shields.io/badge/FastAPI-1a0b3b?style=for-the-badge&logo=fastapi&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="FastAPI"/>
-<img height="40" src="https://img.shields.io/badge/Flask-1a0b3b?style=for-the-badge&logo=flask&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Flask"/>
-<img height="40" src="https://img.shields.io/badge/JWT-1a0b3b?style=for-the-badge&logo=jsonwebtokens&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="JWT"/>
-<img height="40" src="https://img.shields.io/badge/Swagger-1a0b3b?style=for-the-badge&logo=swagger&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Swagger"/>
+<img height="40" src="https://img.shields.io/badge/FastAPI-0d0221?style=for-the-badge&logo=fastapi&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="FastAPI"/>
+<img height="40" src="https://img.shields.io/badge/Flask-0d0221?style=for-the-badge&logo=flask&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Flask"/>
+<img height="40" src="https://img.shields.io/badge/JWT-0d0221?style=for-the-badge&logo=jsonwebtokens&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="JWT"/>
+<img height="40" src="https://img.shields.io/badge/Swagger-0d0221?style=for-the-badge&logo=swagger&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Swagger"/>
 </p>
 
-<h3>Databases</h3>
+<h4>&gt; Databases</h4>
 <p>
-<img height="40" src="https://img.shields.io/badge/PostgreSQL-1a0b3b?style=for-the-badge&logo=postgresql&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="PostgreSQL"/>
+<img height="40" src="https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="PostgreSQL"/>
 </p>
 
-<h3>AI / ML</h3>
+<h4>&gt; AI / ML</h4>
 <p>
-<img height="40" src="https://img.shields.io/badge/Pandas-1a0b3b?style=for-the-badge&logo=pandas&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Pandas"/>
-<img height="40" src="https://img.shields.io/badge/NumPy-1a0b3b?style=for-the-badge&logo=numpy&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="NumPy"/>
-<img height="40" src="https://img.shields.io/badge/Matplotlib-1a0b3b?style=for-the-badge&labelColor=1a0b3b&color=1a0b3b" alt="Matplotlib"/>
+<img height="40" src="https://img.shields.io/badge/Pandas-0d0221?style=for-the-badge&logo=pandas&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Pandas"/>
+<img height="40" src="https://img.shields.io/badge/NumPy-0d0221?style=for-the-badge&logo=numpy&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="NumPy"/>
+<img height="40" src="https://img.shields.io/badge/Matplotlib-0d0221?style=for-the-badge&labelColor=0d0221&color=0d0221" alt="Matplotlib"/>
 </p>
 
-<h3>Cloud & Hosting</h3>
+<h4>&gt; Cloud & Hosting</h4>
 <p>
-<img height="40" src="https://img.shields.io/badge/Google_Cloud-1a0b3b?style=for-the-badge&logo=googlecloud&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Google Cloud"/>
-<img height="40" src="https://img.shields.io/badge/AWS-1a0b3b?style=for-the-badge&labelColor=1a0b3b&color=1a0b3b" alt="AWS"/>
-<img height="40" src="https://img.shields.io/badge/Azure-1a0b3b?style=for-the-badge&labelColor=1a0b3b&color=1a0b3b" alt="Azure"/>
-<img height="40" src="https://img.shields.io/badge/Vercel-1a0b3b?style=for-the-badge&logo=vercel&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Vercel"/>
-<img height="40" src="https://img.shields.io/badge/Render-1a0b3b?style=for-the-badge&logo=render&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Render"/>
-<img height="40" src="https://img.shields.io/badge/Cloudflare-1a0b3b?style=for-the-badge&logo=cloudflare&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Cloudflare"/>
+<img height="40" src="https://img.shields.io/badge/Google_Cloud-0d0221?style=for-the-badge&logo=googlecloud&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Google Cloud"/>
+<img height="40" src="https://img.shields.io/badge/AWS-0d0221?style=for-the-badge&labelColor=0d0221&color=0d0221" alt="AWS"/>
+<img height="40" src="https://img.shields.io/badge/Azure-0d0221?style=for-the-badge&labelColor=0d0221&color=0d0221" alt="Azure"/>
+<img height="40" src="https://img.shields.io/badge/Vercel-0d0221?style=for-the-badge&logo=vercel&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Vercel"/>
+<img height="40" src="https://img.shields.io/badge/Render-0d0221?style=for-the-badge&logo=render&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Render"/>
+<img height="40" src="https://img.shields.io/badge/Cloudflare-0d0221?style=for-the-badge&logo=cloudflare&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Cloudflare"/>
 </p>
 
-<h3>DevOps & Infra</h3>
+<h4>&gt; DevOps & Infra</h4>
 <p>
-<img height="40" src="https://img.shields.io/badge/Docker-1a0b3b?style=for-the-badge&logo=docker&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Docker"/>
-<img height="40" src="https://img.shields.io/badge/Kubernetes-1a0b3b?style=for-the-badge&logo=kubernetes&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Kubernetes"/>
+<img height="40" src="https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Docker"/>
+<img height="40" src="https://img.shields.io/badge/Kubernetes-0d0221?style=for-the-badge&logo=kubernetes&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Kubernetes"/>
 </p>
 
-<h3>Tools & Utilities</h3>
+<h4>&gt; Tools & Utilities</h4>
 <p>
-<img height="40" src="https://img.shields.io/badge/Git-1a0b3b?style=for-the-badge&logo=git&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Git"/>
-<img height="40" src="https://img.shields.io/badge/Postman-1a0b3b?style=for-the-badge&logo=postman&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Postman"/>
-<img height="40" src="https://img.shields.io/badge/Canva-1a0b3b?style=for-the-badge&logo=canva&logoColor=c084fc&labelColor=1a0b3b&color=1a0b3b" alt="Canva"/>
-<img height="40" src="https://img.shields.io/badge/Adobe_Premiere_Pro-1a0b3b?style=for-the-badge&labelColor=1a0b3b&color=1a0b3b" alt="Adobe Premiere Pro"/>
+<img height="40" src="https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Git"/>
+<img height="40" src="https://img.shields.io/badge/Postman-0d0221?style=for-the-badge&logo=postman&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Postman"/>
+<img height="40" src="https://img.shields.io/badge/Canva-0d0221?style=for-the-badge&logo=canva&logoColor=05d9e8&labelColor=0d0221&color=0d0221" alt="Canva"/>
+<img height="40" src="https://img.shields.io/badge/Adobe_Premiere_Pro-0d0221?style=for-the-badge&labelColor=0d0221&color=0d0221" alt="Adobe Premiere Pro"/>
 </p>
 
-## 📊 GitHub Stats
+<img src="assets/h-stats.svg" width="100%" alt="GITHUB_STATS"/>
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.shion.dev/api?username=rayyanafroz&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=c084fc&icon_color=a78bfa&text_color=e9d5ff&border_color=3b1d78&ring_color=a78bfa" alt="stats"/>
-<img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rayyanafroz&layout=compact&hide_border=false&bg_color=0d0221&title_color=c084fc&icon_color=a78bfa&text_color=e9d5ff&border_color=3b1d78&ring_color=a78bfa" alt="top langs"/>
+<img height="200" src="https://github-readme-stats.shion.dev/api?username=rayyanafroz&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=e9d5ff&border_color=ff003c&ring_color=ff003c" alt="stats"/>
+<img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rayyanafroz&layout=compact&hide_border=false&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=e9d5ff&border_color=ff003c&ring_color=ff003c" alt="top langs"/>
 
-<img src="https://streak-stats.demolab.com/?user=rayyanafroz&hide_border=false&background=0d0221&ring=a78bfa&fire=c084fc&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c4b5fd&dates=a78bfa&stroke=3b1d78&border=3b1d78" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=rayyanafroz&hide_border=false&background=0d0221&ring=ff003c&fire=ff2a6d&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=ff2a6d&sideLabels=05d9e8&dates=c4b5fd&stroke=3b1d78&border=ff003c" alt="streak"/>
 
 </div>
 
-## 🐍 Contribution Snake
+<img src="assets/h-snake.svg" width="100%" alt="CONTRIBUTION_SNAKE"/>
 
 <div align="center">
 <picture>
@@ -116,29 +118,17 @@ $ status
 </picture>
 </div>
 
-## 🏆 GitHub Trophies
+<img src="assets/h-quote.svg" width="100%" alt="DEV_QUOTE"/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rayyanafroz&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
-</div>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote"/>
-</div>
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=rayyanafroz&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" alt="top repos"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=0d0221,3b1d78,7c3aed" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=rayyanafroz&icon=1&color=8b5cf6&label=PROFILE%20VIEWS&style=for-the-badge" alt="views"/></a>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=rayyanafroz&icon=1&color=ff003c&label=PROFILE%20VIEWS&style=for-the-badge" alt="views"/></a>
 
 </div>
 
